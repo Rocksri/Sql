@@ -70,7 +70,7 @@ The SQL script includes the following queries:
 
 ## File Contents
 
-* `ecommerce_database.sql`: Contains the SQL script to create the database, tables, insert sample data, and run the queries.
+* `SQL Task.sql`: Contains the SQL script to create the database, tables, insert sample data, and run the queries.
 * `README.md`: This file, providing project documentation.
 
 ## Notes
